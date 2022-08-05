@@ -1,0 +1,14 @@
+# npm 模块
+node_modules
+
+# mac
+.DS_Store
+
+# 编辑器
+.idea
+.vscode
+/test/
+#/app/platform/src/images/
+/app/platform/index.html
+dist
+.eslintcache
